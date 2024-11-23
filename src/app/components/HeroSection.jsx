@@ -22,13 +22,13 @@ const HeroSection = () => {
             <br></br>
             <TypeAnimation
               sequence={[
-                "Judy",
+                "Reyhan Capri Moraga",
                 1000,
-                "Web Developer",
+                "Back End Web Developer",
                 1000,
-                "Mobile Developer",
+                "Cloud Computing",
                 1000,
-                "UI/UX Designer",
+                "Dev Ops Engineer",
                 1000,
               ]}
               wrapper="span"
@@ -37,8 +37,7 @@ const HeroSection = () => {
             />
           </h1>
           <p className="text-[#ADB7BE] text-base sm:text-lg mb-6 lg:text-xl">
-            Lorem ipsum dolor sit amet consectetur adipisicing elit. Quisquam,
-            voluptuous.
+            Halo, my name is Reyhan Cap[ri Moraga from Institute Technology Of Sumatera, located in Indonesia, currently learning golang, java, nodejs, php for Back End Development.
           </p>
           <div>
             <Link
